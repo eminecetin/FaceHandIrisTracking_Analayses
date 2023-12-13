@@ -1,4 +1,4 @@
-# FaceHandIrisTracking_Analayses
+# FaceHandIrisTracking_Analayses on video
 Emotional state, arm, hand and eye movements were examined using OpenCV during the video . The movements made were transferred to the database and
 a report was created by performing data pre-processing and data analysis on the data in this database.
 
